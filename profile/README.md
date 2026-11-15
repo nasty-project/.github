@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nasty-project/nasty">Main Repo</a> · <a href="https://github.com/nasty-project/nasty/blob/main/FAQ.md">FAQ</a> · <a href="https://github.com/nasty-project/nasty-csi">CSI Driver</a> · <a href="https://nasty-telemetry.pages.dev">Telemetry</a>
+  <a href="https://nasty-project.eu">Website</a> · <a href="https://github.com/nasty-project/nasty">Main Repo</a> · <a href="https://github.com/nasty-project/nasty/blob/main/FAQ.md">FAQ</a> · <a href="https://github.com/nasty-project/nasty-csi">CSI Driver</a> · <a href="https://nasty-telemetry.pages.dev">Telemetry</a>
 </p>
